@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 9em;
+}
+header img{
+    width: 5vw;
+}
+
+.raquelle{   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+
+.raquelle img{
+    border-radius : 1em;
+    -webkit-box-shadow: 200px 3px 5px 0px rgba(59,9,59,1);
+-moz-box-shadow: 200px 3px 5px 0px rgba(59,9,59,1);
+sombra da caixa: 200px 3px 5px 0px rgba(59,9,59,1);
+
+}
+
